@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><b></b>OSCode X CIT</b></h1>
+**OSCode X CIT**
 
 ![OSCode X CIT Logo](https://via.placeholder.com/400x150.png?text=OSCode+X+CIT+Logo)  
 
