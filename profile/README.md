@@ -42,10 +42,10 @@ Our mission is to **build a strong open-source culture** in campus and beyond, w
  </div>
 
 **Core Team:**  
-- Yamini Tantuway – Lead  
-- Aditya Gandhad – Co-Lead
-- Karthik V P - Managing Director
-- Himashree – Secretary  
+- Lead – Yamini Tantuway  
+- Co-Lead – Aditya Gandhad
+- Managing Director - Karthik V P
+- Secretary – Himashree  
  
 ---
 <div align="center"> 
