@@ -13,7 +13,7 @@
 ## 📌 About Us
 </div>
 
-**OSCode X CIT** is the official campus chapter Open Source and Coding Community of **Cambridge Institute of Technology (CIT)**. 
+**OSCode X CIT** is the official campus chapter of OSCode- Open Source and Coding Community at **Cambridge Institute of Technology (CIT)**. 
 
 We are a group of students passionate about:
 - 💻 Open Source Contributions  
@@ -42,11 +42,11 @@ Our mission is to **build a strong open-source culture** in campus and beyond, w
  </div>
 
 **Core Team:**  
-- [Your Name] – President  
-- [Member 2 Name] – Vice President  
-- [Member 3 Name] – Secretary  
-- [Add more roles as needed]  
-
+- Yamini Tantuway – Lead  
+- Aditya Gandhad – Co-Lead
+- Karthik V P - Managing Director
+- Himashree – Secretary  
+ 
 ---
 <div align="center"> 
 
