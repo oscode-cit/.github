@@ -1,6 +1,6 @@
 <div align="center">
 
-# OSCode X CIT 🚀
+<h1 style="font-size: 3.5rem;"> OSCode X CIT</h1>
 
 ![OSCode X CIT Logo](https://via.placeholder.com/400x150.png?text=OSCode+X+CIT+Logo)  
 
@@ -10,7 +10,7 @@
 
 <div align="center"> 
 
-## 📌 About Us
+# 📌 About Us
 </div>
 
 **OSCode X CIT** is the official campus chapter of OSCode- Open Source and Coding Community at **Cambridge Institute of Technology (CIT)**. 
@@ -27,7 +27,7 @@ Our mission is to **build a strong open-source culture** in campus and beyond, w
 
 <div align="center"> 
 
-## 🎯 What We Do?
+# 🎯 What We Do?
 </div>
 
 - Organize workshops, hackathons, and coding challenges.  
@@ -38,7 +38,7 @@ Our mission is to **build a strong open-source culture** in campus and beyond, w
 ---
 <div align="center"> 
 
-## 👥 Our Team
+# 👥 Our Team
  </div>
 
 **Core Team:**  
@@ -50,7 +50,7 @@ Our mission is to **build a strong open-source culture** in campus and beyond, w
 ---
 <div align="center"> 
 
-## 🤝 Get Involved
+# 🤝 Get Involved
 </div>
 
 We welcome everyone interested in coding and open source!  
@@ -65,7 +65,7 @@ We welcome everyone interested in coding and open source!
 ---
 <div align="center"> 
 
-## 💡 Thank you !
+# 💡 Thank you !
 </div>
 
 *"Alone we can do so little; together we can do so much."*  
