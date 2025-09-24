@@ -2,7 +2,7 @@
 
 # **OSCode X CIT**
 
-![OSCode X CIT Logo](https://via.placeholder.com/400x150.png?text=OSCode+X+CIT+Logo)  
+![OSCode X CIT Logo](C:\Users\User\Downloads\IMG_20250923_190607_895.webp) 
 
 ---
 </div>
