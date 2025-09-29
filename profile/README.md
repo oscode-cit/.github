@@ -2,8 +2,6 @@
 
 # **OSCode X CIT**
 
-![OSCode X CIT Logo](C:\Users\User\Downloads\IMG_20250923_190607_895.webp) 
-
 ---
 </div>
 
