@@ -66,7 +66,8 @@ We welcome everyone interested in coding and open source!
 # 💡 Thank you !
 </div>
 
-*"Alone we can do so little; together we can do so much."*  
+*"Alone we can do so little; together we can do so much."*  <br>
+
 At **OSCode X CIT**, we believe in collaboration, creativity, and community.  
 Let’s **code, contribute, and create** 🚀  
 
