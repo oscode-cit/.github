@@ -51,10 +51,11 @@ Our mission is to **build a strong open-source culture** in campus and beyond, w
 # 🤝 Get Involved
 </div>
 
-We welcome everyone interested in coding and open source!  
+We welcome everyone interested in coding and open source!<br>
+
 👉 Join us in building projects, learning together, and contributing to the community.  
 
-- 📩 Contact: Official mail 
+- 📩 Contact: oscodecit@cambridge.edu.in
 - 🌐 Website: 
 - 🐙 GitHub: [github.com/oscode-cit](https://github.com/oscode-cit)  
 
