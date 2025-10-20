@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><b>OSCode CIT</b></h1>
+<h1><b>OSCODE CIT</b></h1>
 
 ---
 </div>
