@@ -1,10 +1,10 @@
 <div align="center">
 
 <h1><b>OSCODE CIT</b></h1>
+Welcome to the OSCode CIT Github Repository!
 
 ---
 </div>
-
 
 <div align="center"> 
 
